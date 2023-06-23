@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyMapDotnet", "GalaxyMapDotnet\GalaxyMapDotnet.csproj", "{50DD8F4C-E816-413B-9808-D84C05A9917E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyMapDotnet.DLL", "GalaxyMapDotnet.DLL\GalaxyMapDotnet.DLL.csproj", "{30B80510-1E8A-434D-9967-49682F492815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50DD8F4C-E816-413B-9808-D84C05A9917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DD8F4C-E816-413B-9808-D84C05A9917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DD8F4C-E816-413B-9808-D84C05A9917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DD8F4C-E816-413B-9808-D84C05A9917E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B80510-1E8A-434D-9967-49682F492815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B80510-1E8A-434D-9967-49682F492815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B80510-1E8A-434D-9967-49682F492815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B80510-1E8A-434D-9967-49682F492815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6BFDAA-9065-4BFA-8D38-E2F812615FCE}
+	EndGlobalSection
+EndGlobal
